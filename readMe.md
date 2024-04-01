@@ -11,4 +11,4 @@
 
 ## Licence
 
-The project is for use under AfriHUB's internal processes and thus is licensed subject to their terms
+The project is for use under MIT
